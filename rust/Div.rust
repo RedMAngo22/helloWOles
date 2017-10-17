@@ -1,0 +1,3 @@
+var template = React.createClass({
+   render: templateRT
+});
